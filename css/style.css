@@ -12,6 +12,7 @@ ul li{list-style:none;}
 	height:80px;
 	border-bottom:1px solid gray;
 	margin:3px auto;
+	background-color:#cccccc;
 }
 
 .box .box_top .nav{
